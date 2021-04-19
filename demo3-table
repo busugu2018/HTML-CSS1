@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table</title>
+</head>
+	<body>
+		<table border="1">
+			<tr>
+				<td>Red</td>
+				<td>Blue</td>
+			</tr>
+			<tr>
+				<td>Yellow</td>
+				<td>Green</td>
+			</tr>
+		</table>
+
+		<hr>
+
+		<table border="2">
+			<tr>
+				<th>Name</th>
+				<th>Age</th>
+			</tr>
+			<tr>
+				<td>Rusty</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Jo</td>
+				<td>20</td>
+			</tr>
+			<tr>
+				<td>Al</td>
+				<td>23</td>
+			</tr>
+		</table>
+
+		<hr>
+
+		<table border="2">
+
+			<tr>
+				<th>Image</th>
+				<th>Name</th>
+				<th>Type</th>
+				<th>Evolve Info</th>
+			</tr>
+			<tr>
+				<td><img src="https://cdn.bulbagarden.net/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png"></td>
+				<td>Bulbasaur</td>
+				<td>Grass/Poison</td>
+				<td><a href="https://pokemondb.net/pokedex/bulbasaur">Ivysaur</a></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn.bulbagarden.net/upload/thumb/7/73/004Charmander.png/250px-004Charmander.png"></td>
+				<td>Charmander</td>
+				<td>Fire</td>
+				<td><a href="https://www.pokemon.com/us/pokedex/charmander">Charmelon</a></td>
+			</tr>
+			<tr>
+				<td><img src="https://cdn.bulbagarden.net/upload/thumb/0/0c/008Wartortle.png/250px-008Wartortle.png"></td>
+				<td>Squirtle</td>
+				<td>Water</td>
+				<td><a href="https://www.pokemon.com/us/pokedex/wartortle">Wartortle</a></td>
+			</tr>
+		</table>
+
+	</body>
+</html>

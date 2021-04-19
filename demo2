@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>One</title>
+	<meta charset="utf-8">
+</head>
+	<body>
+
+		<h1>Things I've learned</h1>
+
+			<h2>Internet Basics</h2>
+				<ol>
+					<li>HTTP Requests</li>
+					<li>IP Address</li>
+					<li>Servers</li>
+				</ol>
+
+			<h2>HTML</h2>
+
+				<p>lorem ipsum</p>
+
+				<ul>
+					<li>Stands for <strong>Hyper Text Markup Language</strong></li>
+					<li>Lots of tags</li>
+						<ul>
+							<li>Boilerplate</li>
+								<ol>
+									<li>Doctype</li>
+									<li>HTML</li>
+									<li>Head</li>
+										<ol>
+											<li>Title</li>
+
+												<img src="https://www.lebergerallemand.fr/images/berger-allemand-gris.jpg">
+												<img src="Doberman-Pinscher-2.jpg">
+
+											<li>Work Portfolio</li>
+
+												<a href="https://github.com/busugu2018?tab=overview&from=2018-09-01&to=2018-09-30">
+
+													<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsjEwUaj7SjHQ4Encep0VJOz-ODloafMTUOPLi0Wg_x5wsg3q">
+													My Github
+
+												</a>
+
+										</ol>
+									<li>Body</li>
+								</ol>
+							<li>Headings</li>
+							<li>Paragraphs</li>
+							<li><em>em</em></li>
+							<li><strong>strong</strong></li>
+						</ul>
+				</ul>
+
+			<h3> New info to be added</h3>
+
+
+	</body>
+</html>
